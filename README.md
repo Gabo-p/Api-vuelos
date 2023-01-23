@@ -93,3 +93,6 @@ docker-compose -f docker-compose.dev.yml
 # deploy from Docker hub
 docker-compose -f docker-compose.prod.yml
 ```
+
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Gabo-p/Api-vuelos)
